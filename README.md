@@ -1,4 +1,5 @@
 # Tournament Auction Helper
+
 ### This code comes in handy for organizing auctions for tournaments with many teams.
 
 In this code:
@@ -9,3 +10,9 @@ In this code:
 5. Shuffle the unsold list and then select names from it randomly and distribute the players in teams so everybody gets selected by a team. 
 6. Display the Final Teams and Player count of each team.
 
+### Libraries used: 
+1. Pandas
+
+### Modules that can be added:
+1. The final results can directly be stored into a excel sheet.
+2. Statistics of the player and other information can be displayed alongside the name during the auction.
